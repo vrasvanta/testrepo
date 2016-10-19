@@ -36,7 +36,7 @@
               </execution>
             </executions>
             <configuration>
-              <executable>${basedir}\install_libs.bat</executable>
+              <executable>${basedir}\scripts\install_libs.bat</executable>
             </configuration>
           </plugin>
 	      <plugin>
