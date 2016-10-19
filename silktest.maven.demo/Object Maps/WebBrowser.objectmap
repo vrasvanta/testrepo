@@ -1,0 +1,3 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="WebBrowser" locator="//BrowserApplication" urlPattern=""/>
+</ObjectMap>

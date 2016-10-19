@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recorderProject version="17.0">
+  <applicationConfiguration>
+    <browserType>InternetExplorer</browserType>
+    <baseStateInfo>
+      <locator>//BrowserApplication</locator>
+      <url>http://demo.borland.com/InsuranceWebExtJS</url>
+    </baseStateInfo>
+  </applicationConfiguration>
+  <agentOptions>
+    <entry>
+      <string>OPT_ASSET_NAMESPACE</string>
+      <string>silktest.maven.demo</string>
+    </entry>
+  </agentOptions>
+</recorderProject>
