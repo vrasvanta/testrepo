@@ -22,23 +22,6 @@
 			      </filesets>
 			    </configuration>
 	 	  </plugin>
-	 	  <plugin>
-          <groupId>org.codehaus.mojo</groupId>
-            <artifactId>exec-maven-plugin</artifactId>
-            <version>1.2</version>
-            <executions>
-              <execution>
-                <id>runbatchfile</id>
-                <phase>clean</phase>
-                <goals>
-                  <goal>exec</goal>
-                </goals>
-              </execution>
-            </executions>
-            <configuration>
-              <executable>${basedir}\scripts\install_libs.bat</executable>
-            </configuration>
-          </plugin>
 	      <plugin>
 	        <groupId>org.apache.maven.plugins</groupId>
 	        <artifactId>maven-compiler-plugin</artifactId>
